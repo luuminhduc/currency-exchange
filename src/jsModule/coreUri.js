@@ -1,0 +1,1 @@
+export const coreUri = 'https://open.exchangerate-api.com/v6/latest';
